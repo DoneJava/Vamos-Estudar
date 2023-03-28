@@ -110,6 +110,6 @@ No arquivo EstudanteRepository.cs temos exemplo de usos com comentários, começ
 
 	Caso queira ajudar!
 
-Já vai ter valido a pena caso ajude apenas uma pessoa! Agradeço de qualquer forma!
+Se apenas uma pessoa adquirir conhecimento aqui, já vai ter valido a pena! Agradeço de qualquer forma!
 
-Meu telefone de contato e pix: 21999303988
+Meu telefone de contato e pix: 21999303988 <3
