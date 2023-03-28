@@ -36,18 +36,18 @@ https://www.linkedin.com/in/vagner-lu%C3%ADs-rodrigues-22817a218/
 
 	NIVEL 1
 
-< Nova forma instância a partir do C# 8. 
-	Nele é possível realizar a instância de uma classe sem precisar colocar o tipo da classe ao criar a nova instância como no exemplo
-do arquivo EstudantesController na linha x (também está sendo utilizado em diversas outras partes do código). -->
+< Nova forma de instância a partir do C# 8. 
+	Nela é possível realizar a instância de uma classe sem precisar colocar o tipo da classe ao criar a nova instância como no exemplo
+do arquivo EstudantesController na linha 36 (também está sendo utilizado em diversas outras partes do código). -->
 
 < IF ternário (Operador)
 	Basicamente é criar uma condicional usando o opedador IF em apenas uma linha de forma muito prática!
-Há um exemplo no arquivo EstudantesRepository na linha x. -->
+Há um exemplo no arquivo EstudantesManager na linha 30. -->
 
 < String utilizando antes das aspas os símbolos $ e @.
 	O símbolo $ vai permitir que dentro da string você passe uma variável qualquer pela interpolação. Basta colocar a variável entre chaves.
 O símbolo @ vai permitir você pular linhas com o enter sem a necessidade de concatenar as strings utilizando o sinal +. 
-Temos exemplos em muitas classes do projeto, mas na classe EstudantesRepository na linha x, você pode ver um exemplo do uso destes símbolos! -->
+Temos exemplos em muitas classes do projeto, mas na classe EstudantesRepository na linha 70, você pode ver um exemplo do uso destes símbolos! -->
 
 < Regions
 	As regions servem para você organizar seu código por setores. São divisórias entre métodos, eventos, variáveis, construtores e etc.
