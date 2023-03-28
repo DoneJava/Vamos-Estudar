@@ -18,8 +18,8 @@ isso comecei esse projeto, então aproveite todos os "macetes", dicas e veja os 
 que como eu, querem ajudar! Sei que acabei de falar que a vivência prática está sendo mais cobrada recentemente, porém nunca deixe de estudar! Aumente sua
 stack e seja completo! Um programador fullstack é o mais buscado pelas empresas, ele consegue se virar em qualquer ambiente!
 Uma dica que também dou é: Em grande parte do seu dia você talvez não vá nem programar, pois ser desenvolvedor envolve reuniões demoradas,
-muitas regras de negócio e conhecimento do ramo em que sua empresa atua! O cara que se destaca, é aquele que da soluções que otimizam o processo,
-ganham tempo, facilitam a manutenção e evita erros! Foque em fazer bem feito, mesmo que demore um pouco mais, naquele momento pode parecer ruim
+muitas regras de negócio e conhecimento do ramo em que sua empresa atua! O cara que se destaca, é aquele que da soluções que otimiza o processo,
+ganha tempo, facilita a manutenção e evita erros! Foque em fazer bem feito, mesmo que demore um pouco mais. Naquele momento pode parecer ruim
 mas te garanto que irá poupar muito mais tempo ao evitar os famosos "BUGS".
 Foque em ter um código claro, limpo, intuitivo. Todos vão gostar de estar no seu time! De testar e fazer codereview das suas tarefas,
 você será sempre elogiado e ganhará importância. Ter um código limpo e intuitivo te ajudará independente da linguagem ou framework, pode ser usado
@@ -30,9 +30,9 @@ Caso você copie o projeto para testá-lo ou facilitar a busca pelo que procura,
 por falta de algum pacote que você precise baixar, a versão do framework ou qualquer outro motivo. O importante é identificar o problema e corrigí-lo!
 Quem estiver iniciando nos estudos, não desanime! Como em qualquer outro ramo, quem se dedicar mais e de forma mais inteligente, vai conquistar
 o mundo! E viemos aqui para isso!	
-Gostaria que cada um que viesse e tivesse mais a agregar ao projeto, faça assim podemos ajudar a comunidade, me mande uma mensagem no
+Gostaria que cada um que viesse e tivesse mais a agregar ao projeto, me mande uma mensagem no
 linkedIn com melhorias, novidades ou correções para o nosso projeto!
-
+https://www.linkedin.com/in/vagner-lu%C3%ADs-rodrigues-22817a218/
 
 	NIVEL 1
 
@@ -93,3 +93,21 @@ BÔNUS: Diferença na utilização dos escopos para a injeção de dependência 
 No arquivo EstudanteRepository.cs temos exemplo de usos com comentários, começa na linha 28, da uma olhada! -->
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Caso queira ajudar!
+Meu telefone de contato e pix: 
+Agradeço de qualquer forma!
