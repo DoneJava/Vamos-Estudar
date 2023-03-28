@@ -5,8 +5,8 @@
 
 
 
-Fala galera! Para você que veio aqui em busca de algo específico pra te ajudar, você já tem uma certa experiência, é só descer
-até achar asteristicos ou use o ctrl + F para buscar a palavra do assunto que procura!
+Fala galera! Para você que veio aqui em busca de algo específico pra te ajudar, você já tem uma certa experiência, é só usar
+o ctrl + F para buscar a palavra do assunto que procura!
 Agora, se você está começando agora a estudar, trabalhar ou só quer trocar uma ideia, queria falar um pouco com você.
 	Esse projeto foi feito para ajudar você com diversas situações que encontrei durante minhas experiências no trabalho
 e de coisas bem interessantes que me deparei durante os estudos. Muito do que está aqui eu aprendi com meus colegas de trabalho
@@ -33,11 +33,6 @@ o mundo! E viemos aqui para isso!
 Gostaria que cada um que viesse e tivesse mais a agregar ao projeto, faça assim podemos ajudar a comunidade, me mande uma mensagem no
 linkedIn com melhorias, novidades ou correções para o nosso projeto!
 
-
-
-***************************************************************************************************************************
-***************************************************************************************************************************
-***************************************************************************************************************************
 
 	NIVEL 1
 
