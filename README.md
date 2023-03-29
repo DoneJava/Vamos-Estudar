@@ -101,15 +101,3 @@ No arquivo EstudanteRepository.cs temos exemplo de usos com comentários, começ
 
 
 
-
-
-
-
-
-
-
-	Caso queira ajudar!
-
-Se apenas uma pessoa adquirir conhecimento aqui, já vai ter valido a pena! Agradeço de qualquer forma!
-
-Meu telefone de contato e pix: 21999303988 <3
